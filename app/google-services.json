@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507217252034",
+    "project_id": "belajarcrudfirebase1",
+    "storage_bucket": "belajarcrudfirebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507217252034:android:107ccdac68a1fb2d18755b",
+        "android_client_info": {
+          "package_name": "com.yulianti.belajarcrudfirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507217252034-f1dl0h764rebme05ho0ojfrnbg2s4vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO-_x6m41b_Am85ZpcEp04YQ6dnywGwJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507217252034-f1dl0h764rebme05ho0ojfrnbg2s4vcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
